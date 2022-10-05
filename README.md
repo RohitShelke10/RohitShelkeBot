@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👯 I’m looking to collaborate on **Deep Learning**
+- 👯 I’m looking to collaborate on **Web and app development projects**
 
-- 💬 Ask me about **node, mongodb**
+- 💬 Ask me about **nodejs, mongodb, expressjs**
 
 - 📫 How to reach me **rohitshelke11@gmail.com**
 
